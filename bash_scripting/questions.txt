@@ -1,0 +1,13 @@
+1. Write Script to see current date, time, username, and current directory
+2. How to write shell script that will add two numbers, which are supplied as command line argument, and if this two numbers are not given show error and its usage.
+3. Write Script to find out biggest number from given three nos. Numbers are supplied as command line argument. Print error if sufficient arguments are not supplied.
+4. Write script to print the following numbers as 5,4,3,2,1 using while loop.
+5. Write Script, using case statement to perform basic math operation as follows: + addition, - subtraction, x multiplication, / division
+6. Write script to print given number in reverse order, for eg. If no is 123 it must print as 321.
+7. Write script to print given numbers sum of all digit, For eg. If no is 123 it's sum of all digit will be 1+2+3 = 6.
+8. Write script to determine whether given file exist or not, file name is supplied as command line argument, also check for sufficient number of command line argument
+9. Write a shell script takes the name a path (eg: /afs/andrew/course/15/123/handin), and counts all the sub directories (recursively).
+10. Write a shell script that takes a name of a folder as a command line argument, and produce a file that contains the names of all sub folders with size 0 (that is empty sub
+folders)
+11. Write a shell script that takes a name of a folder, and delete all sub folders of size 0
+12. write a shell script that will take an input file and remove identical lines (or duplicate lines from the file)
